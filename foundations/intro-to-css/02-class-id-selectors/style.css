@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+.odd{background-color: rgb(236, 140, 140); font-family: Verdana, Verdana, Geneva, Tahoma, sans-serif}
+#firstid{color: rgb(69, 190, 238); font-size: 36px;}
+.number{font-size: 24px}
+#secondid{background-color: lightgreen; font-size: 24px; font-weight: 700;}
